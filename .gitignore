@@ -1,0 +1,32 @@
+# Ignore CMake build directory
+cmake-build-*/
+
+# Ignore build output if you use another folder
+build/
+out/
+bin/
+*.o
+*.obj
+*.exe
+
+# JetBrains CLion project files
+.idea/
+*.iml
+
+# CMake cache and files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS-specific
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Compiler-generated
+*.log
+*.tmp
+
+# Backup / temp files
+*~
+*.swp
