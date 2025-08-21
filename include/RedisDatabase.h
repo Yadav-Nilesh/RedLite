@@ -1,5 +1,4 @@
 //
-// Created by ajay on 19/6/25.
 //
 
 #ifndef REDISDATABASE_H
